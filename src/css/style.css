@@ -31,3 +31,33 @@ header, main, footer {
   .bell {
     color: white;  
   }
+  
+  .hero{
+    background-image:url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee8dcd73-06e0-40fb-b9ce-13a91be98b17/dg8qbvr-a5495578-294b-4a30-86d8-2800177d4c65.jpg/v1/fill/w_1280,h_720,q_75,strp/lord_of_the_rings_hd_wallpapers_by_3dculture_dg8qbvr-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZWU4ZGNkNzMtMDZlMC00MGZiLWI5Y2UtMTNhOTFiZTk4YjE3XC9kZzhxYnZyLWE1NDk1NTc4LTI5NGItNGEzMC04NmQ4LTI4MDAxNzdkNGM2NS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.JUDY_dFe54W5lz0kqwLeQfq97bQCgmDv7ejEh5jfJDg");
+    background-size: cover;
+    box-shadow: 0 2px 15px -3px rgba(0, 0, 0, 0.212), 0 10px 20px -2px rgba(0, 0, 0, 0.212)
+  }
+  .hero h1 {
+    font-size: 2rem;
+    margin-top: 1rem;
+    color: darkred  ;
+  }
+  .hero p {
+    margin-right: 50%;
+  }
+  .highlight {
+    font-weight: bold;
+    color: red;
+  }
+  .btn-group {
+    margin-bottom: 1rem;
+  }
+  .movie-list {
+    margin-bottom: 1rem;
+  }
+  
+  .movie-list {
+    margin-bottom: 30px;
+  }
+  
+  
